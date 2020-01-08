@@ -1,4 +1,4 @@
-# SBP test pay
+# SBP fast pay
 iOS приложение: https://link
 
 Разработчик: Ilya Kuzmichev
