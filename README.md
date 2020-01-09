@@ -1,5 +1,5 @@
 # SBP fast pay
-iOS приложение: https://link
+iOS приложение: https://apps.apple.com/us/app/sbp-fast-pay/id1494174161?l=ru#?platform=iphone
 
 Разработчик: Ilya Kuzmichev
 
